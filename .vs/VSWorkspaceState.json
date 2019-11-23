@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Test",
+    "\\Test\\Test",
+    "\\Test\\Test\\Database Triggers",
+    "\\Test\\Test\\dbo",
+    "\\Test\\Test\\dbo\\Tables"
+  ],
+  "SelectedNode": "\\Test\\Test\\dbo\\Tables\\DimCurrency.sql",
+  "PreviewInSolutionExplorer": false
+}
